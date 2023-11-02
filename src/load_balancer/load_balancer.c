@@ -6,7 +6,7 @@
 
 #include "load_balancer.h"
 #include "server.h"
-#include "utils.h"
+#include "../utils.h"
 
 char* my_strdup(const char* str)
 {

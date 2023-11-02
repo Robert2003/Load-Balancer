@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "server.h": "c",
+        "load_balancer.h": "c"
+    }
+}

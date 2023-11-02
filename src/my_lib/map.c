@@ -5,7 +5,7 @@
 
 #include "list.h"
 #include "map.h"
-#include "utils.h"
+#include "../utils.h"
 
 int compare_function_ints(void *a, void *b)
 {

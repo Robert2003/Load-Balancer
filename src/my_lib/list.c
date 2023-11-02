@@ -4,7 +4,7 @@
 #include <string.h>
 
 #include "list.h"
-#include "utils.h"
+#include "../utils.h"
 
 linked_list_t *ll_create(unsigned int data_size)
 {

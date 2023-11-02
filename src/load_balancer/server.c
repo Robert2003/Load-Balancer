@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "map.h"
+#include "../my_lib/map.h"
 #include "server.h"
 
 server_memory *init_server_memory()

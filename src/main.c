@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "load_balancer.h"
+#include "load_balancer/load_balancer.h"
 #include "utils.h"
 
 #define REQUEST_LENGTH 1024
